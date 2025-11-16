@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShortestWay",
+            "request": "launch",
+            "mainClass": "graph.ShortestWay",
+            "projectName": "Baekjoon_java_1d3bb3dc"
+        },
+        {
+            "type": "java",
+            "name": "ConnectedComponent",
+            "request": "launch",
+            "mainClass": "graph.ConnectedComponent",
+            "projectName": "Baekjoon_java_1d3bb3dc"
+        },
+        {
+            "type": "java",
+            "name": "HideAndSeek",
+            "request": "launch",
+            "mainClass": "graph.HideAndSeek",
+            "projectName": "Baekjoon_java_1d3bb3dc"
+        },
+        {
+            "type": "java",
             "name": "Tomato",
             "request": "launch",
             "mainClass": "graph.Tomato",
